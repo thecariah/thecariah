@@ -1,4 +1,6 @@
-<img align="right" alt="foto" width="150" src="https://i.pinimg.com/originals/77/93/57/77935785bcfe4a71a426e68e5ffc0111.gif">
+<p align="center">
+  <img alt="animegif" width="200" src="https://i.pinimg.com/originals/77/93/57/77935785bcfe4a71a426e68e5ffc0111.gif">
+</p>
 
 ### Hey!
 I'm a final-year Computer Engineering student.
