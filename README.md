@@ -6,10 +6,10 @@
 I'm a final-year Computer Engineering student.
 
 ## 💫 About Me:
-📚 Experienced in web platform development, but currently exploring cybersecurity, deep learning, and game development.<br><br>
-🚀 Backend is my specialty, but I have also learned full-stack tools and technologies.<br><br>
-🎼 Hobbies: playing piano and guitar, watching anime, and gaming.<br><br>
-🌎 Languages: Spanish (native) & English (intermediate, self-taught).
+📚 Experienced in web platform development, but currently exploring cybersecurity and game development.<br><br>
+🚀 Backend is my specialty, but I also have knowledge of various other tools and technologies.<br><br>
+🎼 Hobbies: playing piano/guitar, watching anime, gaming.<br><br>
+🌎 Languages: Spanish (native), English (intermediate, self-taught).
 
 
 ## 🌐 Socials:
