@@ -6,22 +6,20 @@
 I'm a Computer Engineering graduate, currently in the process of obtaining my degree.<br><br>
 26.
 
-## 💫 About Me:
-📚 Experienced in software development, currently exploring cybersecurity and continuous delivery pipelines.<br><br>
-🔥 Backend is my specialty, but I also have knowledge of various other tools and technologies.<br><br>
-🎹 Hobbies: Playing piano/guitar and gaming.<br><br>
-🌎 Languages: Spanish (native), English (intermediate, self-taught).
+## About Me:
+I have knowledge in web development, especially backend. Currently exploring cybersecurity and deployment automation.<br><br>
+I also enjoy music and gaming.<br><br>
+Languages: Spanish (native), English (intermediate, self-taught).<br><br>
 
-## 🌐 Socials:
+## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/aced_deca)
 
-## 💻 Tech Stack:
+## Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
