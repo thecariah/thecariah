@@ -3,8 +3,8 @@
 </p>
 
 ### Hey!
-I'm a Computer Engineering graduate, currently in the process of obtaining my degree.<br><br>
-26.
+I’m a Computer Engineer passionate about technology and problem-solving.<br><br>
+27.
 
 ## About Me:
 I have knowledge in web development, especially backend. Currently exploring cybersecurity and deployment automation.<br><br>
