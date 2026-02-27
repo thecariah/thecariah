@@ -12,7 +12,7 @@ I also enjoy music and gaming.<br><br>
 Languages: Spanish (native), English (intermediate, self-taught).<br><br>
 
 ## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/aced_deca)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carolinaantillanca)
 
 ## Tech:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
