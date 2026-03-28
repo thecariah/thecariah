@@ -7,7 +7,7 @@ I’m a Computer Engineer passionate about technology and problem-solving.<br><b
 27.
 
 ## About Me:
-I have knowledge in web development, especially backend. Currently exploring DevOps, IT automation, and cybersecurity.<br><br>
+I have knowledge in web development, especially backend. Currently exploring DevOps and cybersecurity.<br><br>
 I also enjoy music and gaming.<br><br>
 Languages: Spanish (native), English (intermediate).<br><br>
 
