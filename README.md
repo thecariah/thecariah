@@ -9,7 +9,7 @@ I’m a Computer Engineer passionate about technology and problem-solving.<br><b
 ## About Me:
 I have knowledge in web development, especially backend. Currently exploring DevOps and cybersecurity.<br><br>
 I also enjoy music and gaming.<br><br>
-Languages: Spanish (native), English (intermediate).<br><br>
+Languages: Spanish, English.<br><br>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carolinaantillanca)
